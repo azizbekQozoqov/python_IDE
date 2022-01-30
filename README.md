@@ -7,5 +7,12 @@ This project is OPEN SOURCE. You can clone this project and create your own IDE!
 sudo apt-get install python-tk
 ```
 
-Wharch this video for some INFO
-<video src="./.medias/help.mp4" width=900  autoplay controls/>
+APP GUI
+![](./.medias/base.png)
+
+![](./.medias/info.png)
+
+![](./.medias/shortcuts.png)
+
+Clone this repo and whatch this video for some INFO
+[VIDEO LINK](./help.mp4)
